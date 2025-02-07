@@ -14,6 +14,6 @@ This project is a **fully responsive registration form** designed using **HTML, 
 - **CSS** - Styling and responsive design  
 - **JavaScript** - Client-side form validation  
 
-📷 Screenshot
+## 📷 Screenshot
 ![image](https://github.com/user-attachments/assets/90c703a6-ecd4-4923-a193-77eddf0a5563)
 
